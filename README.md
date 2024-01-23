@@ -28,3 +28,12 @@
 [Workday check-myself](https://github.com/Yana-Dyachok/workday-check)                                                        |   [Workday check](https://yana-dyachok.github.io/workday-check/)
 [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)                               |   [Shelter](https://yana-dyachok.github.io/shelter/main/index.html)
 [Password - myself](https://github.com/Yana-Dyachok/password?tab=readme-ov-file)                                             |   [Password validator](https://yana-dyachok.github.io/password/)
+
+
+### Games and tasks using C++
+ Titles                          |   Links to the repositories
+---------------------------------|:-----------------------:
+Vectors.OOP                      |   [Vectors.OOP](https://github.com/Yana-Dyachok/Vectors.OOP)
+Rock-Paper-Scissors-Lizard-Spock |   [Rock-Paper-Scissors-Lizard-Spock](https://github.com/Yana-Dyachok/Rock-Paper-Scissors-Lizard-Spock)
+Choose-Optimal-Distanc           |   [Choose-Optimal-Distanc](https://github.com/Yana-Dyachok/Choose-Optimal-Distance)
+Battleship-game                  |   [Battleship-game](https://github.com/Yana-Dyachok/Battleship-game)
