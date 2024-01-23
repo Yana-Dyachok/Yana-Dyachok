@@ -16,7 +16,7 @@
 
 ### My Projects 
 
- Tasks                    |   Deploy link
+ Tasks                    |   Deploy links
 --------------------------|:-----------------------:
 [Plants](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/plants/plants.md)                                  |   [Plants](https://yana-dyachok.github.io/plants/)
 [Momentum ](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md)                    |   [Momentum](https://yana-dyachok.github.io/momentum/src/index.html)
