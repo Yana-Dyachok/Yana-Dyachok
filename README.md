@@ -23,7 +23,7 @@
 [Hangman](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman)                                   |   [Hangman](https://yana-dyachok.github.io/hangman/hangman/index.html)
 [Coffee house](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house-week1.md)          |   [Coffee house](https://yana-dyachok.github.io/coffee-house/coffee-house/)
 [Virtual keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md) |   [Virtual keyboard](https://yana-dyachok.github.io/virtual-keyboard/keyboard/src/)
-[Sticks game - no task](https://github.com/Yana-Dyachok/sticks-game?tab=readme-ov-file)                                      |  [Sticks game](https://yana-dyachok.github.io/sticks-game/sticks-game/) |   [Sticks game](https://yana-dyachok.github.io/sticks-game/sticks-game/)
+[Sticks game - myself](https://github.com/Yana-Dyachok/sticks-game?tab=readme-ov-file)                                       |   [Sticks game](https://yana-dyachok.github.io/sticks-game/sticks-game/) 
 [CssBayan](https://github.com/DrDiman/CSS-Bayan-task)                                                                        |   [CssBayan](https://yana-dyachok.github.io/cssBayan/cssBayan/index.html)
 [Workday check-myself](https://github.com/Yana-Dyachok/workday-check)                                                        |   [Workday check](https://yana-dyachok.github.io/workday-check/)
 [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)                               |   [Shelter](https://yana-dyachok.github.io/shelter/main/index.html)
