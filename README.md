@@ -35,5 +35,5 @@
 ---------------------------------|:-----------------------:
 Vectors.OOP                      |   [Vectors.OOP](https://github.com/Yana-Dyachok/Vectors.OOP)
 Rock-Paper-Scissors-Lizard-Spock |   [Rock-Paper-Scissors-Lizard-Spock](https://github.com/Yana-Dyachok/Rock-Paper-Scissors-Lizard-Spock)
-Choose-Optimal-Distanc           |   [Choose-Optimal-Distanc](https://github.com/Yana-Dyachok/Choose-Optimal-Distance)
+Choose-Optimal-Distance          |   [Choose-Optimal-Distance](https://github.com/Yana-Dyachok/Choose-Optimal-Distance)
 Battleship-game                  |   [Battleship-game](https://github.com/Yana-Dyachok/Battleship-game)
