@@ -14,7 +14,7 @@
 
 <img alt="Figma" width="30" src="./img/logo/figma_logo_icon_170157.svg">  <img alt="VS" width="30" src="./img/logo/file_type_vscode_icon_130084.svg">  <img alt="Git" width="30" src="./img/logo/file_type_git_icon_130581.svg">
 
-### My Projects 
+## 👩‍💻 My Projects 
 
  Tasks                    |       Links to repositories  | Deploy links 
 --------------------------|:-------------------------------|:-----------------------:                                        | 
@@ -31,7 +31,7 @@
 [Coffee house](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house-week1.md)          | [Coffee house](https://github.com/Yana-Dyachok/coffee-house)  | [Coffee house](https://yana-dyachok.github.io/coffee-house/coffee-house/)
 [Virtual keyboard](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md) | [Virtual keyboard](https://github.com/Yana-Dyachok/virtual-keyboard) | [Virtual keyboard](https://yana-dyachok.github.io/virtual-keyboard/keyboard/src/)
 Sticks game - myself                                     |   [Sticks game](https://github.com/Yana-Dyachok/sticks-game?tab=readme-ov-file)| [Sticks game](https://yana-dyachok.github.io/sticks-game/sticks-game/) 
-to-do list - myself | [to-do list](https://github.com/Yana-Dyachok/todo-list)| [to-do list](https://yana-dyachok.github.io/todo-list/todo-list/)
+To-do list - myself | [To-do list](https://github.com/Yana-Dyachok/todo-list)| [To-do list](https://yana-dyachok.github.io/todo-list/todo-list/)
 [CssBayan](https://github.com/DrDiman/CSS-Bayan-task)                                                                        | [CssBayan](https://github.com/Yana-Dyachok/cssBayan)  |[CssBayan](https://yana-dyachok.github.io/cssBayan/cssBayan/index.html)
 Workday check-myself                                                     | [Workday check](https://github.com/Yana-Dyachok/workday-check)  |[Workday check](https://yana-dyachok.github.io/workday-check/)
 [Shelter](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md)                               | [Shelter](https://github.com/Yana-Dyachok/shelter?tab=readme-ov-file)  |[Shelter](https://yana-dyachok.github.io/shelter/main/index.html)
@@ -46,3 +46,9 @@ Vectors.OOP                      |   [Vectors.OOP](https://github.com/Yana-Dyach
 Rock-Paper-Scissors-Lizard-Spock |   [Rock-Paper-Scissors-Lizard-Spock](https://github.com/Yana-Dyachok/Rock-Paper-Scissors-Lizard-Spock)
 Choose-Optimal-Distance          |   [Choose-Optimal-Distance](https://github.com/Yana-Dyachok/Choose-Optimal-Distance)
 Battleship-game                  |   [Battleship-game](https://github.com/Yana-Dyachok/Battleship-game)
+
+### 📋 Certificates:
+
+#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/react.png">
+#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js2" src="./img/certificates/s2.png">
+#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-react" src="./img/certificates/s0.png">
