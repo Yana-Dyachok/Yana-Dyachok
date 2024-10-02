@@ -4,10 +4,10 @@
 ## About myself
 -  👀 I’m interested in front-end development
 - My qualities: learn quickly, self-taught, goal-oriented, polite, organized, team-player, hard-working
-<img src="./img/logo/yanad.JPG" alt="my photo" width="900" height="340" style="max-width: 100%; height: auto;">
+<img src="./img/logo/yanad.JPG" alt="my photo" style="width: 100%; max-width: 900px; height: auto;">
 
 ### Contacts
-<a href="tel:+380992924988"><img alt="tel" width="30" src="./img/logo/1485482192-phone_78665.svg"></a>   <a href="mailto:cerahuk2023@gmail.com"><img alt="mail" width="30" src="./img/logo/4202011emailgmaillogomailsocialsocialmedia-115677_115624.svg"></a>  <a href="https://www.linkedin.com/in/yana-dyachok-06a384253/"><img alt="LinkedIn" width="30" src="./img/logo/linkedin_original_logo_icon_146435.svg"></a>  <a href="https://www.codewars.com/users/Dyachok"><img alt="Codewars" width="30" src="./img/logo/codewars-red.svg"></a>  <a href="https://discord.com/users/yana-dyachok#6659"><img alt="Discord" width="30" src="./img/logo/discord_101785.svg"></a>  <a href="https://t.me/yana_ins"><img alt="Telegram" width="30" src="./img/logo/telegram_logo_icon_147228.svg"></a>   
+<a href="tel:+380992924988"><img alt="tel" width="30" src="./img/logo/1485482192-phone_78665.svg"></a>   <a href="mailto:cerahuk2023@gmail.com"><img alt="mail" width="30" src="./img/logo/4202011emailgmaillogomailsocialsocialmedia-115677_115624.svg"></a>  <a href="https://www.linkedin.com/in/yana-dyachok-06a384253/"><img alt="LinkedIn" width="30" src="./img/logo/linkedin_original_logo_icon_146435.svg"></a>  <a href="https://www.codewars.com/users/Yana%20Dyachok"><img alt="Codewars" width="30" src="./img/logo/codewars-red.svg"></a>  <a href="https://discord.com/users/yana-dyachok#6659"><img alt="Discord" width="30" src="./img/logo/discord_101785.svg"></a>  <a href="https://t.me/yana_ins"><img alt="Telegram" width="30" src="./img/logo/telegram_logo_icon_147228.svg"></a>   
 
 ### Skills
 <img alt="HTML5" width="30" src="./img/logo/file_type_html_icon_130541.svg">   <img alt="CSS3" width="30" src="./img/logo/css_original_logo_icon_146575.svg">  <img alt="SASS" width="30" src="./img/logo/sass_original_logo_icon_146350.svg">  <img alt="BEM" width="30" src="./img/logo/bem_logo_icon_247482.svg">  <img alt="JS" width="30" src="./img/logo/folder_js_icon_161291.svg">   <img alt="React" width="30" src="./img/logo/react_original_logo_icon_146374.svg">  <img alt="TS" width="30"  src="./img/logo/folder_type_typescript_icon_129815.svg">  <img alt="C++" width="30" src="./img/logo/icons8-c++.svg">  <img alt="SQL" width="30" src="./img/logo/file_type_sql_icon_130152.svg">  <img alt="node.js" width="30" src="./img/logo/file_type_node_icon_130301.svg">
@@ -19,6 +19,7 @@
  Tasks                    |       Links to repositories  | Deploy links 
 --------------------------|:-------------------------------|:-----------------------:                                        | 
 [REST/GraphiQL Client](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/final.md)| [REST/GraphiQL Client](https://github.com/Yana-Dyachok/rest-graphiql-app?tab=readme-ov-file)|[REST/GraphiQL Client](https://graphiql-app-undefineds-rss.vercel.app/)
+[React. Redux. Context api](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/redux.md) |[React. Redux. Context api](https://github.com/Yana-Dyachok/React-2024Q3/tree/app-state-management)| [React. Redux. Context api](https://yana-dyachok.github.io/React-2024Q3/)
 [React Forms](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/forms.md)| [React Forms](https://github.com/Yana-Dyachok/React-2024Q3/tree/forms) | [React Forms](https://react-dyachok.netlify.app/)
 [eCommerce-Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [eCommerce-Application](https://github.com/Yana-Dyachok/eCommerce-Application)| [eCommerce-Application](https://undefineds-rss-deploy.netlify.app/catalog)
 [Fun Chat](https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/fun-chat/README.md) |[Fun Chat](https://github.com/Yana-Dyachok/JS-FE-2023Q4/tree/fun-chat) | [Fun Chat](https://yana-dyachok.github.io/JS-FE-2023Q4/fun-chat/)
@@ -47,8 +48,12 @@ Rock-Paper-Scissors-Lizard-Spock |   [Rock-Paper-Scissors-Lizard-Spock](https://
 Choose-Optimal-Distance          |   [Choose-Optimal-Distance](https://github.com/Yana-Dyachok/Choose-Optimal-Distance)
 Battleship-game                  |   [Battleship-game](https://github.com/Yana-Dyachok/Battleship-game)
 
-### 📋 Certificates:
+### 🎓 Certificates:
 
-#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/react.png">
-#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js2" src="./img/certificates/s2.png">
-#### <img width="648" style="max-width: 100%; height: auto;" alt="rss-react" src="./img/certificates/s0.png">
+ #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/react.png"> 
+ 📜<a href="https://app.rs.school/certificate/dv7tvf8u" target="_blank">React</a>
+ #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js2" src="./img/certificates/s2.png">
+ 📜 <a href="https://app.rs.school/certificate/zzhtzjbg" target="_blank">JavaScript/Front-end</a>
+ #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-react" src="./img/certificates/s0.png">
+ 📜<a href="https://app.rs.school/certificate/oxumcm62" target="_blank">JS/FE Pre-School</a>
+ #### <img width="648" style="max-width: 100%; height: auto;" alt="english" src="./img/certificates/photo_2021-12-24_12-05-49.jpg">
