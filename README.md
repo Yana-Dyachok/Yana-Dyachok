@@ -52,7 +52,7 @@ Battleship-game                  |   [Battleship-game](https://github.com/Yana-D
 ### 🎓 Certificates:
 
  #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/react.png"> 
- 📜<a href="https://app.rs.school/certificate/dv7tvf8u" target="_blank">React</a>
+ 📜<a href="https://app.rs.school/certificate/qwbdssph" target="_blank">React</a>
  #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js2" src="./img/certificates/s2.png">
  📜 <a href="https://app.rs.school/certificate/zzhtzjbg" target="_blank">JavaScript/Front-end</a>
  #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-react" src="./img/certificates/s0.png">
