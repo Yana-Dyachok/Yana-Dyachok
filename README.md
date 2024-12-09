@@ -50,7 +50,8 @@ Choose-Optimal-Distance          |   [Choose-Optimal-Distance](https://github.co
 Battleship-game                  |   [Battleship-game](https://github.com/Yana-Dyachok/Battleship-game)
 
 ### 🎓 Certificates:
-
+ #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/node.js.png"> 
+ 📜<a href="https://app.rs.school/certificate/m1idohhx" target="_blank">Node.js</a>
  #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js0" src="./img/certificates/react.png"> 
  📜<a href="https://app.rs.school/certificate/qwbdssph" target="_blank">React</a>
  #### <img width="648" style="max-width: 100%; height: auto;" alt="rss-js2" src="./img/certificates/s2.png">
