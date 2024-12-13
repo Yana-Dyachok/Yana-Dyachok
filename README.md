@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I’m Yana
 
-## About myself
+## About myself  ([CV](https://yana-dyachok.github.io/cv/))
 -  👀 I’m interested in front-end development
 - My qualities: learn quickly, self-taught, goal-oriented, polite, organized, team-player, hard-working
 <img src="./img/logo/yanad.JPG" alt="my photo" style="width: 100%; max-width: 900px; height: auto;">
@@ -18,6 +18,7 @@
 
  Tasks                    |       Links to repositories  | Deploy links 
 --------------------------|:-------------------------------|:-----------------------:                                        | 
+[Async-Race-React ](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)| [Async-Race-React](https://github.com/Yana-Dyachok/Async-Race-React/tree/develop?tab=readme-ov-file)|[Async-Race-React](https://async-race-react-diachok.netlify.app/?page=1)
 [REST/GraphiQL Client](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/final.md)| [REST/GraphiQL Client](https://github.com/Yana-Dyachok/rest-graphiql-app?tab=readme-ov-file)|[REST/GraphiQL Client](https://graphiql-app-undefineds-rss.vercel.app/)
 [React. Redux. Context api](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/redux.md) |[React. Redux. Context api](https://github.com/Yana-Dyachok/React-2024Q3/tree/app-state-management)| [React. Redux. Context api](https://yana-dyachok.github.io/React-2024Q3/)
 [React Forms](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/forms.md)| [React Forms](https://github.com/Yana-Dyachok/React-2024Q3/tree/forms) | [React Forms](https://react-dyachok.netlify.app/)
