@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I’m Yana
 
-## About myself  ([CV](https://yana-dyachok.github.io/cv/))
+## About myself  ([CV](https://diachok-yana-cv.netlify.app/))
 -  👀 I’m interested in front-end development
 - My qualities: learn quickly, self-taught, goal-oriented, polite, organized, team-player, hard-working
 <img src="./img/logo/yanad.JPG" alt="my photo" style="width: 100%; max-width: 900px; height: auto;">
@@ -18,11 +18,12 @@
 
  Tasks                    |       Links to repositories  | Deploy links 
 --------------------------|:-------------------------------|:-----------------------:                                        | 
+[The-Car-Dealer-App](https://develops.notion.site/Front-end-JS-engineer-test-assessment-the-Recipe-Finder-App-5b87f1603ac54112bacfdc625a85a87b)|[The-Car-Dealer-App](https://github.com/Yana-Dyachok/The-Car-Dealer-App?tab=readme-ov-file)|[The-Car-Dealer-App](https://the-car-dealer-app-ten.vercel.app/)
 [Async-Race-React ](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)| [Async-Race-React](https://github.com/Yana-Dyachok/Async-Race-React/tree/develop?tab=readme-ov-file)|[Async-Race-React](https://async-race-react-diachok.netlify.app/?page=1)
 [REST/GraphiQL Client](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/final.md)| [REST/GraphiQL Client](https://github.com/Yana-Dyachok/rest-graphiql-app?tab=readme-ov-file)|[REST/GraphiQL Client](https://graphiql-app-undefineds-rss.vercel.app/)
 [React. Redux. Context api](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/redux.md) |[React. Redux. Context api](https://github.com/Yana-Dyachok/React-2024Q3/tree/app-state-management)| [React. Redux. Context api](https://yana-dyachok.github.io/React-2024Q3/)
 [React Forms](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/forms.md)| [React Forms](https://github.com/Yana-Dyachok/React-2024Q3/tree/forms) | [React Forms](https://react-dyachok.netlify.app/)
-[eCommerce-Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [eCommerce-Application](https://github.com/Yana-Dyachok/eCommerce-Application)| [eCommerce-Application](https://undefineds-rss-deploy.netlify.app/catalog)
+[eCommerce-Application](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [eCommerce-Application](https://github.com/Yana-Dyachok/eCommerce-Application)| [eCommerce-Application](https://e-commerce-application-opal.vercel.app/)
 [Fun Chat](https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/fun-chat/README.md) |[Fun Chat](https://github.com/Yana-Dyachok/JS-FE-2023Q4/tree/fun-chat) | [Fun Chat](https://yana-dyachok.github.io/JS-FE-2023Q4/fun-chat/)
 [RSS Puzzle](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/puzzle)                                                        | [RSS Puzzle](https://github.com/Yana-Dyachok/JS-FE-2023Q4/tree/rss_puzzle)      | [RSS Puzzle](https://yana-dyachok.github.io/JS-FE-2023Q4/rss-puzzle/)
 [News API](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/migration-newip-to-ts.md) |[News API](https://github.com/Yana-Dyachok/JS-FE-2023Q4/tree/news-api?tab=readme-ov-file)|[News API](https://yana-dyachok.github.io/JS-FE-2023Q4/news-api/)
